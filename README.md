@@ -13,6 +13,7 @@ nice commit and replay it on top of the master branch.
 This technique is useful in situations where you need to make changes to a pull
 request before it can be integrated.
 
+Also, this sentence is meant to modify the `README` in order to manage a conflict.
 
 ### Exercise
 
